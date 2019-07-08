@@ -14,3 +14,5 @@ as possible where possible, adding improvements where they felt Java was lacking
 * [Type inference](type-inference.md)
 * [Inheritance](inheritance.md)
 * [Properties](properties.md)
+* [Events](events.md)
+* [Lambdas](lambdas.md)
