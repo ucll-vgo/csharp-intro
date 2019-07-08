@@ -12,3 +12,5 @@ as possible where possible, adding improvements where they felt Java was lacking
 * [Common types](common-types.md)
 * [Generics](generics.md)
 * [Type inference](type-inference.md)
+* [Inheritance](inheritance.md)
+* [Properties](properties.md)
