@@ -9,3 +9,4 @@ deliberately tried to keep C# as close to Java
 as possible where possible, adding improvements where they felt Java was lacking.
 
 * [Naming conventions](naming-conventions.md)
+* [Common types](common-types.md)
