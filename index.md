@@ -11,3 +11,4 @@ as possible where possible, adding improvements where they felt Java was lacking
 * [Naming conventions](naming-conventions.md)
 * [Common types](common-types.md)
 * [Generics](generics.md)
+* [Type inference](type-inference.md)
