@@ -220,3 +220,6 @@ EventName?.Invoke(arg1, arg2, ...);
 EventName += MethodName;
 ```
 
+## More Information
+
+* [Events](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/index)
