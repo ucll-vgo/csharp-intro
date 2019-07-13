@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
-using ClockExercise;
 using Xunit;
 
-namespace clock
+namespace Exercise
 {
     public class UnitTests
     {

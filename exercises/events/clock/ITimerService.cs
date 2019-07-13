@@ -1,6 +1,6 @@
 using System;
 
-namespace ClockExercise
+namespace Exercise
 {
     public interface ITimerService
     {
