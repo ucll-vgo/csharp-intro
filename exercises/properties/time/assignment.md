@@ -13,8 +13,17 @@ Write a `Time` class that represents a time duration in hours, minutes and secon
 ```csharp
 var time = new Time(1, 0, 5); // 1 hour, 0 minutes, 5 seconds
 
-// time.TotalSeconds == 3605
-// time.Seconds == 5
-// time.Minutes == 0
-// time.Hours == 1
+Console.WriteLine($"Total seconds: {time.TotalSeconds}");
+Console.WriteLine($"Seconds: {time.Seconds}");
+Console.WriteLine($"Minutes: {time.Minutes}");
+Console.WriteLine($"Hours: {time.Hours}");
+```
+
+should print
+
+```text
+Total seconds: 3605
+Seconds: 5
+Minutes: 0
+Hours: 1
 ```
