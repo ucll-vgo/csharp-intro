@@ -68,7 +68,7 @@ class Foo : Bar
 C# uses slightly different terminology: the superclass is called the *base class*,
 hence the keyword `base`.
 
-## `virtual`
+## Virtual
 
 In Java, every method is overrideable by default. C# does not agree with this
 choice: according to its designers, making a method overrideable
@@ -88,7 +88,7 @@ public class Foo
 }
 ```
 
-## `override`
+## Override
 
 Java 1.5 introduced annotations which allow programmers
 to "annotate" parts of their code. For example,
