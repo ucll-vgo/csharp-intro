@@ -23,7 +23,7 @@ github_username:  fvogels
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-relative-links
