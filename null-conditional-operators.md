@@ -82,3 +82,8 @@ void Foo(int? x)
     int y = x ?? 0; // Either use x, or 0 if x is null
 }
 ```
+
+## Further Reading
+
+* [Official documentation ?. and ?[]](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators)
+* [Official documentation ??](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator)
