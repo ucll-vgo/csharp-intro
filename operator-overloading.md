@@ -86,5 +86,9 @@ string s1, s2;
 var b1 = s1.Equals(s2);
 var b2 = s1 == s2;
 
-// b1 will always equal b2
+// b1 will always equal b2 (on strings!)
 ```
+
+## Further Reading
+
+* [Official Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading)
