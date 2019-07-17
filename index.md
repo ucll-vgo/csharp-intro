@@ -10,6 +10,7 @@ as possible where possible, adding to it where they felt Java was lacking.
 
 * [Naming conventions](naming-conventions.md)
 * [Common types](common-types.md)
+* [String interpolation](string-interpolation.md)
 * [Operator overloading](operator-overloading.md)
 * [Null-conditional operators](null-conditional-operators.md)
 * [Generics](generics.md)
@@ -19,4 +20,3 @@ as possible where possible, adding to it where they felt Java was lacking.
 * [Properties](properties.md)
 * [Events](events.md)
 * [Lambdas](lambdas.md)
-* [String interpolation](string-interpolation.md)
