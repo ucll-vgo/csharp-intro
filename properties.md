@@ -359,7 +359,7 @@ public class Person
 
 The same is possible for methods.
 
-## Extra Information
+## Further Reading
 
-* [Properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
+* [Official documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
 * [Expression-bodied members](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members)
