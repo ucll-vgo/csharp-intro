@@ -23,6 +23,7 @@ simply add `?` to a value type. For example,
 int? x = null;
 ```
 
-## See Also
+## Further Reading
 
+* [Official documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/nullable-types/)
 * [Null-conditional operators](null-conditional-operators.md)
