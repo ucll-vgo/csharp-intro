@@ -359,6 +359,13 @@ public class Person
 
 The same is possible for methods.
 
+## Exercises
+
+Exercises can be found on the `master` branch.
+
+* `exercises/properties/person`
+* `exercises/properties/time`
+
 ## Further Reading
 
 * [Official documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
