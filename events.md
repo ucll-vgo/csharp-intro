@@ -220,6 +220,13 @@ EventName?.Invoke(arg1, arg2, ...);
 EventName += MethodName;
 ```
 
+## Exercises
+
+Exercises can be found on the `master` branch.
+
+* `exercises/events/filesystem-change-counter`
+* `exercises/events/clock`
+
 ## Further Reading
 
 * [Official documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/index)
