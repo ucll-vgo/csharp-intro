@@ -89,6 +89,12 @@ var b2 = s1 == s2;
 // b1 will always equal b2 (on strings!)
 ```
 
+## Exercises
+
+Exercises can be found on the `master` branch.
+
+* `exercises/operator-overloading/fraction`
+
 ## Further Reading
 
 * [Official Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading)
