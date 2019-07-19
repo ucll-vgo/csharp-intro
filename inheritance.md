@@ -147,3 +147,8 @@ public class extends Foo
 }
 ```
 
+## Exercises
+
+Exercises can be found on the `master` branch.
+
+* `exercises/inheritance/logger`
