@@ -23,6 +23,12 @@ To indicate your intention to insert variables into the string,
 you need to prefix the string literal with a `$`.
 Inserting variable values can then be inserted using `{expression}`.
 
+## Exercises
+
+Exercises can be found on the `master` branch.
+
+* `exercises/string-interpolation/formatting`
+
 ## Further Reading
 
 * [Official documentation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
