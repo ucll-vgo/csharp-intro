@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Xunit;
 using Solution;
 
-namespace Exercise
+namespace LoggerExercise
 {
     public class UnitTests
     {
