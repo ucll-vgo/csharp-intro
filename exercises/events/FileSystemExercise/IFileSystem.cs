@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Exercise
+namespace FileSystemExercise
 {
     public interface IFileSystem
     {
