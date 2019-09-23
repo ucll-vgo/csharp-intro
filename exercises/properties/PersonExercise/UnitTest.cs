@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Exercise
+namespace PersonExercise
 {
     public class UnitTests
     {
