@@ -151,4 +151,4 @@ public class extends Foo
 
 Exercises can be found on the `master` branch.
 
-* `exercises/inheritance/logger`
+* `exercises/inheritance/LoggerExercise`

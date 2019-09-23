@@ -93,7 +93,7 @@ var b2 = s1 == s2;
 
 Exercises can be found on the `master` branch.
 
-* `exercises/operator-overloading/fraction`
+* `exercises/operator-overloading/FractionExercise`
 
 ## Further Reading
 

@@ -27,7 +27,7 @@ Inserting variable values can then be inserted using `{expression}`.
 
 Exercises can be found on the `master` branch.
 
-* `exercises/string-interpolation/formatting`
+* `exercises/string-interpolation/FormattingExercise`
 
 ## Further Reading
 

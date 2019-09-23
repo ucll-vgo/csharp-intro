@@ -363,8 +363,8 @@ The same is possible for methods.
 
 Exercises can be found on the `master` branch.
 
-* `exercises/properties/person`
-* `exercises/properties/time`
+* `exercises/properties/PersonExercise`
+* `exercises/properties/TimeExercise`
 
 ## Further Reading
 

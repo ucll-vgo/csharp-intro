@@ -224,8 +224,8 @@ EventName += MethodName;
 
 Exercises can be found on the `master` branch.
 
-* `exercises/events/filesystem-change-counter`
-* `exercises/events/clock`
+* `exercises/events/FileSystemExercise`
+* `exercises/events/ClockExercise`
 
 ## Further Reading
 
