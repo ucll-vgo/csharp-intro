@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Xunit;
 
-namespace Exercise
+namespace ClockExercise
 {
     public class UnitTests
     {
