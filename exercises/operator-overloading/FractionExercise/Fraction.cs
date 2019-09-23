@@ -1,6 +1,6 @@
 using System;
 
-namespace Exercise
+namespace FractionExercise
 {
     public class Fraction
     {
