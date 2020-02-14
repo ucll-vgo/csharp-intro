@@ -43,6 +43,8 @@ A `StreamLogger` is initialized with a `StreamWriter` (which is part
 of the .NET standard library). Every time a message reaches the
 `StreamLogger`, it passes it along to the `StreamWriter`.
 
+* You might need to flush... (google is your friend)
+
 ## FileLogger
 
 A `FileLogger` is a specialized version of the `StreamLogger`:
