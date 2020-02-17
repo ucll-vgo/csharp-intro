@@ -121,7 +121,7 @@ public class extends Foo
 ```
 
 Thanks to the `@Override` annotation, the compiler can
-see that something's wrong with `quks` amd will give
+see that something's wrong with `quks` and will give
 you an error message. Without `@Override`, the compiler
 would simply assume you meant to define an extra method, unrelated
 to `qux`. While optional in Java, making use of `@Override` is
