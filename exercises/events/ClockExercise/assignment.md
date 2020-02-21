@@ -27,7 +27,7 @@ This indicates how many seconds/minutes/... have passed.
 The first time a function is called, `n` will be set to `1`, the next time it will
 be `2`, etc.
 
-Now, how does `Clock` now how much time has passed? For this,
+Now, how does `Clock` know how much time has passed? For this,
 it relies on a service provided by the OS, which is
 here represented as `ITimerService`:
 
