@@ -84,7 +84,7 @@ public class Foo
 {
     public void NonoverrideableMethod() { ... }
 
-    public virtual OverrideableMethod() { ... }
+    public virtual void OverrideableMethod() { ... }
 }
 ```
 
