@@ -1,5 +1,5 @@
 using System;
-using Exercise;
+using ClockExercise;
 
 namespace Solution
 {
