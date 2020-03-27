@@ -69,4 +69,4 @@ Say the following changes are then made:
 * `b.txt` is deleted.
 * `a.txt` is modified.
 
-Reading `cgc.ChangeCount` should yield `2`, as two distinct files have undergone changes.
+Reading `cfc.ChangeCount` should yield `2`, as two distinct files have undergone changes.
