@@ -48,7 +48,7 @@ IFileSystem fs = GetFileSystem();
 fs.FileCreated += OnFileCreated;
 ```
 
-This will cause `XXX has been created!" to be printed whenever
+This will cause `XXX has been created!` to be printed whenever
 a file `XXX` has been created.
 
 ## Your Task
