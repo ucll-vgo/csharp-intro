@@ -156,7 +156,7 @@ counter.CurrentValue++;
 ```
 
 Here, `CurrentValue` is known as a *property*. Basically,
-it's a "intelligent field".
+it's an "intelligent field".
 
 * `currentValue` acts as the "backing field", that is, the actual
   variable which stores the value.
