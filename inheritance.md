@@ -139,7 +139,7 @@ public class Foo
     public virtual void qux() { ... }
 }
 
-public class extends Foo
+public class : Foo
 {
     public override void bar() { ... }
 
