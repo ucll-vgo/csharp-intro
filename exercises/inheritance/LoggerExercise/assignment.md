@@ -62,6 +62,6 @@ This class is a bit trickier to implement:
 
 A `LogBroadcaster` is useful when you have multiple logs, e.g.,
 you want messages written both to file and shown on screen.
-A `LogBroadcaster` is initialized with a `List<Logger>`.
+A `LogBroadcaster` is initialized with an `IEnumerable<Logger>` (which is the most abstract type for collections).
 Whenever it receives a messages, it passes it along
 to all `Logger`s in the list.
