@@ -60,7 +60,7 @@ This count should be accessible through a `ChangeCount` property.
 For example, say I instantiate a `ChangedFilesCounter` as follows:
 
 ```csharp
-var cfc = new ChangedFileCounter(fileSystem);
+var cfc = new ChangedFilesCounter(fileSystem);
 ```
 
 Say the following changes are then made:
