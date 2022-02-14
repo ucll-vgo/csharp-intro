@@ -2,18 +2,18 @@
 
 ## Opening the Exercise
 
-First, make sure you opened the exercise the correct way.
-In the "Solution Explorer" (typically on the right), you should see the following structure:
+Make sure you have opened the exercise correctly.
+In the Solution Explorer (typically on the right of your screen), you should see
 
-* Solution FormattingExercise
+* Solution 'FormattingExercise'
   * FormattingExercise
+    * Dependencies
     * assignment.md
     * Solution.cs
     * UnitTests.cs
 
-If, however, you have a list of all exercises in the repository, something went wrong.
-You can either open the exercise using File Explorer, by double clicking on the FormattingExercise.sln.
-Or, you can open it from within Visual Studio: in the menu File -> Open -> Project/Solution and select FormattingExercise.sln. 
+If you see a list of exercises, something went wrong.
+Check the instructions on the [main page](https://github.com/ucll-vgo/csharp-intro) to learn how to open the exercises in Visual Studio correctly.
 
 ## Solving the Exercise
 
