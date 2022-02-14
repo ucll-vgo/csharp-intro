@@ -3,12 +3,12 @@
 This repo contains a quick introduction to C#.
 Proceed as follows:
 
-* Clone this repository. You'll need it to make the exercises.
+* Clone this repository. You'll need it to make the exercises.Cancel changes
 * Let yourself be guided by the [companion text](https://ucll-vgo.github.io/csharp-intro/). *Make sure to follow it!* It contains valuable information to solve the exercises. 
 
 ## User's Guide
 
-* To start working on an exercise, open the `.csproj` file in the exercise's directory.
+* To start working on an exercise, open the `.sln` file in the exercise's directory.
 * To run the tests, open the Test Explorer (under the Test > Windows menu).
 
 ## Note About Solutions and Projects
