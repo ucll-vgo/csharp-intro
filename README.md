@@ -27,5 +27,5 @@ If you encounter errors regarding missing SDKs, here's how to solve them:
 
 ## Running Tests Without Visual Studio
 
-* Make sure you have the [].NET CLI](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-dotnet-cli) installed
+* Make sure you have the [.NET CLI](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-dotnet-cli) installed
 * Inside the exercise's directory, write `dotnet test`.
