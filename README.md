@@ -6,10 +6,13 @@ Proceed as follows:
 * Clone this repository. You'll need it to make the exercises.Cancel changes
 * Let yourself be guided by the [companion text](https://ucll-vgo.github.io/csharp-intro/). *Make sure to follow it!* It contains valuable information to solve the exercises.
 
-## User's Guide
+## Using Visual Studio
 
-* To start working on an exercise, open the `.sln` file in the exercise's directory.
-* To run the tests, open the Test Explorer (under the Test > Windows menu).
+* Click on the menu File -> Open -> Folder and select the `exercises` folder.
+* In the Solution Explorer's toolbar, click "Switch between solutions and available views".
+  You should see a list of .sln files.
+* Double click on the .sln of the exercise you wish to make.
+* To get back to the overview of all exercises, click the "Switch between solutions and available views" again.
 
 ## Problems with .NET Versions
 
