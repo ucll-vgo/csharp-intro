@@ -51,8 +51,8 @@ Here, `super()` must come first in the constructor's body, which makes sense:
 the subclass "builds on top" of the superclass, meaning that the foundations
 have to be build before being able to add something on top of it.
 
-C# enforces this rule by using a syntax that gives the programmer
-no choice but to but the call to the superconstructor first:
+C# enforces this rule by using syntax that gives the programmer
+no choice but to put the call to the superconstructor first:
 
 ```csharp
 // C#
