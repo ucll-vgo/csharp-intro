@@ -68,9 +68,9 @@ public class Counter
 
 Now that `currentValue` is private, the only way to change its
 value is to go through `setCurrentValue`. Now `Counter`
-has full control over `currentValue`: if someone needs
+has full control over `currentValue`: if something needs
 to happen each time `currentValue` changes, such as validation
-or notification, it can add this code to `setCurrentValue`. Problem solved.
+or notification, code can be added to `setCurrentValue`. Problem solved.
 
 Ideally, we would be able to start with the simple implementation
 (public field, no getter/setter) and, whenever the need arises,
