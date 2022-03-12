@@ -172,7 +172,7 @@ Notice how the client code has remained unchanged.
 * First, it is translated to `counter.CurrentValue = counter.CurrentValue + 1` (the astute
   reader might object and complain this is not an accurate translation; this is true,
   but we prefer to focus on the essence.)
-* Next, `counter.CurrentValue` in the right hand side is evaluated: it
+* Next, `counter.CurrentValue` on the right hand side is evaluated: it
   intends to read `CurrentValue`'s value. This is done by calling the getter,
   which simply returns the backing field `currentValue`'s value.
   In our case, this value equals `0`.
