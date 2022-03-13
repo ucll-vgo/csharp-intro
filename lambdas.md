@@ -169,9 +169,9 @@ void SomeOtherMethod()
 }
 ```
 
-Here, `(p1, p2) => p1.bBMI < p2.BMI` is the lambda.
+Here, `(p1, p2) => p1.BMI < p2.BMI` is the lambda.
 It defines a function that takes two parameters
-`p1` and `p2` and returns `p1.bBMI < p2.BMI`.
+`p1` and `p2` and returns `p1.BMI < p2.BMI`.
 In other words, you can write the entire function on the same line
 as where you need it.
 
