@@ -165,7 +165,7 @@ This is where lambdas shine:
 ```csharp
 void SomeOtherMethod()
 {
-    Sort(people, (p1, p2) => p1.bBMI < p2.BMI);
+    Sort(people, (p1, p2) => p1.BMI < p2.BMI);
 }
 ```
 
